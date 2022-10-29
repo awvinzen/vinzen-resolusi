@@ -1,2 +1,3 @@
 Vinzen Resolusi
 - Konsisten belajar progamming
+- menguasai github dan git
