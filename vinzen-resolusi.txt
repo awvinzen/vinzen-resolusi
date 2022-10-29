@@ -1,3 +1,4 @@
 Vinzen Resolusi
 - Konsisten belajar progamming
 - menguasai github dan git
+- mahir dalam html dan css
